@@ -85,7 +85,7 @@ Then in a browser:
 
 > * Full TCP stream analysis
 
-<img width="1283" height="902" alt="image" src="https://github.com/user-attachments/assets/b60f650d-25ff-4259-b360-1901daa2e12c" />
+<img width="1276" height="902" alt="image" src="https://github.com/user-attachments/assets/b60f650d-25ff-4259-b360-1901daa2e12c" />
 <img width="1276" height="901" alt="image" src="https://github.com/user-attachments/assets/46a57dfd-09dc-4f2d-9c23-68dc5ae2d5a4" />
 <img width="1276" height="902" alt="image" src="https://github.com/user-attachments/assets/ac750643-8cff-4718-872a-a1482c2c3dfd" />
 
@@ -115,9 +115,9 @@ Then in a browser:
 
 ```
 wireshark-packet-analysis/
-├── traffic-analysis.pcapng         # Sample capture file
-├── screenshots/                    # Annotated screenshots
-└── README.md                       # Project documentation
+├── traffic-analysis.pcapng         
+├── screenshots/                    
+└── README.md                       
 ```
 
 ---
@@ -136,11 +136,6 @@ wireshark-packet-analysis/
 * [Neverssl](http://neverssl.com)
 * [Wireshark User Guide](https://www.wireshark.org/docs/wsug_html_chunked/)
 
-```
+---
 
-
-- Pre-made screenshots
-- To turn this into a structured GitHub repo (with folders and license)
-
-I'm happy to help you make it look portfolio-ready.
-```
+Created by: Liel Darren F. Fajutagana
